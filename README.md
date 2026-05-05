@@ -11,7 +11,7 @@
 
 ## 🔥 Folder contents
 - 🚀 Dataset: dataset used for this project
-- 🚀 Eval_models: functions that detect the hallucination with commercial large multimodal models (Gemini, ChatGPT, Grok)
+- 🚀 Eval_models: functions that detect the hallucination with commercial large multimodal models
 - 🚀 Prompts: prompts used for the hallucination detection and dataset construction
 - 🚀 Results_JSON: archive of the JSON files of the detrimental hallucination detection
 - 🚀 Results_graph: archive of the plots of the hallucination detection
