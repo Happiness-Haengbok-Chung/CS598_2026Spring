@@ -24,7 +24,7 @@
 
 ```bash
 # 1. Clone repository
-git clone [https://github.com/username/repo.git](https://github.com/Happiness-Haengbok-Chung/CS598_2026Spring.git)
+git clone https://github.com/Happiness-Haengbok-Chung/CS598_2026Spring.git
 
 # 2. Install dependent libraries
 pip install -r requirements.txt
