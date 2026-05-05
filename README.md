@@ -13,8 +13,8 @@
 - 🚀 Dataset: dataset used for this project
 - 🚀 Eval_models: functions that detect the hallucination with commercial large multimodal models
 - 🚀 Prompts: prompts used for the hallucination detection and dataset construction
-- 🚀 Results_JSON: archive of the JSON files of the detrimental hallucination detection
-- 🚀 Results_graph: archive of the plots of the hallucination detection
+- 🚀 Results_JSON: archive of the resulting JSON files of the detrimental hallucination detection from this project
+- 🚀 Results_graph: archive of the resulting plots of the hallucination detection from this project
 
 ## 📖 Key Reference
 - Chen, Kedi, et al. "Diahalu: A dialogue-level hallucination evaluation benchmark for large language models." Findings of the Association for Computational Linguistics: EMNLP 2024. 2024.
