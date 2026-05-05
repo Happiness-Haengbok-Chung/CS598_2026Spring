@@ -20,7 +20,7 @@
 - Chen, Kedi, et al. "Diahalu: A dialogue-level hallucination evaluation benchmark for large language models." Findings of the Association for Computational Linguistics: EMNLP 2024. 2024.
 - Li, Junyi, et al. "Halueval: A large-scale hallucination evaluation benchmark for large language models." Proceedings of the 2023 conference on empirical methods in natural language processing. 2023.
 
-## 🚀 Installation & Reproduce
+## 💻 Installation & Reproduce
 
 ```bash
 # 1. Clone repository
