@@ -3,7 +3,7 @@
 
 ## 🙇‍♀️ Appreciation for the Supervision
 > This project is developed under the supervision of Professor Dilek Hakkani-Tur and Takyoung Kim (TA) in the class "CS598 Conversational AI" at University of Illinois Urbana-Champaign (UIUC).
-> And the key initial insight for this project is from Professor Bohyung Han & Professor Jae Sung Lee at Seoul National University (SNU)
+> And the key initial insight for this project is from Professor Bohyung Han & Professor Jae Sung Lee at Seoul National University (SNU).
 
 ## 🌟 Topics
 - Supplementing the standard of the detrimental hallucination standard
