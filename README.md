@@ -10,9 +10,9 @@
 - Constructing a robotic long-horizon motion planning benchmark dataset based on natural language
 
 ## 🔥 Folder contents
-- ✅ Eval : functions that detect the hallucination with commercial large multimodal models (Gemini, ChatGPT, Grok)
 - ✅ Dataset: dataset used for this project
-- ✅ 
+- ✅ Eval_models: functions that detect the hallucination with commercial large multimodal models (Gemini, ChatGPT, Grok)
+- ✅ Prompts: prompts used for the hallucination detection and dataset construction
 - ✅ 
 
 ## 📖 Key Reference
