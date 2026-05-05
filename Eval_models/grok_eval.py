@@ -3,7 +3,7 @@ import time
 import requests
 from tqdm import tqdm
 
-api_key = "xai-E8HxfAgblgn79FWyO8tbQBWPEbq4wRj8Jw7zN9yoNRH16V9AmeFn41rDBbpZRHC5HI6vdvHaFbvazznf"
+api_key = None
 SYSTEM_PROMPT = """
 You are a linguistic expert and AI reliability auditor. Your task is to analyze a multi-turn dialogue and identify the FIRST occurrence of a hallucination error based on the 6 categories below.
 

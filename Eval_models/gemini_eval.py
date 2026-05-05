@@ -6,7 +6,7 @@ import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 # API 키 설정
-api_key = "AIzaSyCbLL8fC0RMhXSg4nyvRCKeFZNxcUZF82M"
+api_key = None
 genai.configure(api_key=api_key)
 
 SYSTEM_PROMPT = """

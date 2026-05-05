@@ -8,7 +8,7 @@ from tqdm import tqdm
 from openai import OpenAI
 
 # OpenAI API 키 설정
-api_key = "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"
+api_key = None
 client = OpenAI(api_key=api_key)
 # 행복님의 언어학적 정의가 반영된 시스템 프롬프트
 SYSTEM_PROMPT = """
