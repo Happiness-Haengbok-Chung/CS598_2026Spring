@@ -29,8 +29,6 @@ git clone https://github.com/Happiness-Haengbok-Chung/CS598_2026Spring.git
 # 2. Install dependent libraries
 pip install -r requirements.txt
 
-# 3. 실행
-streamlit run app.py
-# 또는
-npm run dev
+# 3. Execution
+python Eval_models/gemini_eval.py
 ```
