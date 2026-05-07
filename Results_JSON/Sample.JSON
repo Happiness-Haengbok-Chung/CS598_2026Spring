@@ -1,5 +1,5 @@
 { 
-"image": hospital.jpg,
+"image": "hospital.jpg",
 "long_horizon_goal": "Prepare the patient room for a new admission by organizing furniture and ensuring a sanitized environment.", 
 "components": [ "hospital_bed", "mint_green_blanket", "white_bed_sheet", "pillow", "iv_pole", "black_chair", "blue_sofa", "wall_medical_console", "floor" ], 
 "scene_description": [ "On(mint_green_blanket, hospital_bed)", "On(pillow, hospital_bed)", "At(iv_pole, left_side_of_hospital_bed)", "Adjacent(black_chair, blue_sofa)", "On(wall_medical_console, wall)", "State(hospital_bed, unoccupied)", "Clear(floor)" ], 
