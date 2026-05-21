@@ -1,5 +1,5 @@
 # 🌈 Building The Part of Lifelong Agents: 
-# Supplemented Detretmental Hallucination Detection / Behavior Planning Benchmark Dataset Construction
+# Supplemented Detrimental Hallucination Detection / Behavior Planning Benchmark Dataset Construction
 
 ## 🙇‍♀️ Appreciation for the Supervision
 > This project is developed under the supervision of Professor Dilek Hakkani-Tur and Takyoung Kim (TA) in the class "CS598 Conversational AI" at University of Illinois Urbana-Champaign (UIUC).
