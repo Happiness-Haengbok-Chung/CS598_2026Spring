@@ -9,7 +9,7 @@
 - Supplementing the standard of the detrimental hallucination standard
 - Constructing a robotic long-horizon motion planning benchmark dataset based on natural language
 
-## 🔥 Folder contents
+## 🔥 Folder Contents
 - 🚀 Dataset: dataset used for this project
 - 🚀 Eval_models: functions that detect the hallucination with commercial large multimodal models
 - 🚀 Prompts: prompts used for the hallucination detection and dataset construction
